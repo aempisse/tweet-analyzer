@@ -1,0 +1,9 @@
+{
+  "name": "tweet-analizer",
+  "version": "1.0.0",
+  "dependencies": {
+    "dotenv": "^6.0.0",
+    "moment": "^2.22.2",
+    "twitter": "^1.7.1"
+  }
+}
